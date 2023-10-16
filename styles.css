@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(32, 32, 32);
+    color: whitesmoke;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+.big-header{
+    text-align: center;
+
+
+}
+
+#indore{
+
+    width:650px;
+    position: absolute;
+    left: 50%;
+    top: 15%;
+
+}
+
+#ujjain{
+
+    width:650px;
+    top: 15%;
+    position: absolute;
+
+}
+
+#indore:hover{
+    border: 5px solid whitesmoke;
+}
+
+#ujjain:hover{
+    border: 5px solid whitesmoke;
+}
+
+
+#ujjain-cards{
+    margin-top:5%;
+}
+
+#indore-cards{
+    margin-top:5%;
+}
+
+.big-heading{
+    color: whitesmoke;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 2%;
+}
+
+#bhagwati{
+    font-size: 0.85rem;
+}
